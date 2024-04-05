@@ -1,7 +1,3 @@
-# Demo Video
-
-https://www.youtube.com/watch?v=UaN0INMBtwk&ab_channel=MitchDennis
-
 # In order to run this project you must:
 
  ## 1. Create a .env file at the projects root and add in these three items:
